@@ -22,7 +22,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Agus\n' // Nama kamu
             + 'ORG:VVIPINDO;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=6289619829060:+62 8961-9829-060\n' //089619829060
             + 'END:VCARD'
 const
 {
@@ -1451,6 +1451,6 @@ Silakan pilih :
 
 }
 //Hay gay
-//create @agusalnsyh don't delate this please
+//create @FAQIH don't delate this please
 	
 })
